@@ -1,0 +1,45 @@
+{
+    "nombreApp" : "componentes",
+    "iconApp" : "icon",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto" : "Alertas",
+            "texto2" : "Se mostrarán alertas"  
+        },
+        {
+            "ruta" : "inputs",
+            "icon" : "input",
+            "texto" : "Entradas de datos",
+            "texto2" : "Ventanas con widgets de entrada"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto" : "Card - Tarjetas",
+            "texto2" : "Tarjetas con imagenes"
+        },
+        {
+            "ruta" : "firebase",
+            "icon" : "data",
+            "texto" : "Firebase Storage",
+            "texto2" : "Acceso a BD de Firebase"
+        },
+        {
+            "ruta" : "list",
+            "icon" : "list",
+            "texto" : "Litas y scrolls",
+            "texto2" : "Scroll infinito"
+        },
+        {
+            "ruta" : "camara",
+            "icon" : "camera",
+            "texto" : "Tomar foto",
+            "texto2" : "Acceso a la cámara"
+        }
+
+    ]
+
+
+}
